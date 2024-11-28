@@ -127,3 +127,10 @@ rightmove-scraper/
 - **settings.py**: Contains the project configuration for Scrapy, including user-agent settings, pipelines, and other parameters.
 
 
+___
+## 📫 Contact
+
+For questions or suggestions, feel free to reach out:  
+- **Name**: Marcellin DJAMBO
+- **Email**: djambomarcellin@gmail.com
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/in/marcellindjambo)
